@@ -102,7 +102,7 @@ def main():
             break            
         
         else:
-            logger.error("Invalid input")
+            logger.error("Invalid input!")
             continue
         
 if __name__ =="__main__":
